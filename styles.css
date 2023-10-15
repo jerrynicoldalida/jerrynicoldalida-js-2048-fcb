@@ -102,93 +102,106 @@ hr {
 /*Add styling to the numbers*/
 .x2{
 	background-color: #eee4da;
-	background-image: var(--background-image-url-02);
+/*	background-image: var(--background-image-url-02);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+		color: #727371;
 }
 
 .x4{
 	background-color: #ece0ca;
-	background-image: var(--background-image-url-04);
+/*	background-image: var(--background-image-url-04);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: #727371;
 }
 
 .x8{
 	background-color: #f4b17a;
-	background-image: var(--background-image-url-08);
+/*	background-image: var(--background-image-url-08);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x16{
 	background-color: #f59575;
-	background-image: var(--background-image-url-16);
+/*	background-image: var(--background-image-url-16);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x32{
 	background-color: #f57c5f;
-	background-image: var(--background-image-url-32);
+/*	background-image: var(--background-image-url-32);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x64{
 	background-color: #f65d3b;
-	background-image: var(--background-image-url-64);
+/*	background-image: var(--background-image-url-64);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x128{
 	background-color: #edce71;
-	background-image: var(--background-image-url-128);
+/*	background-image: var(--background-image-url-128);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x256{
 	background-color: #edcc63;
-	background-image: var(--background-image-url-256);
+/*	background-image: var(--background-image-url-256);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x512{
 	background-color: #edc651;
-	background-image: var(--background-image-url-512);
+/*	background-image: var(--background-image-url-512);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x1024{
 	background-color: #eec744;
-	background-image: var(--background-image-url-1024);
+/*	background-image: var(--background-image-url-1024);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x2048{
 	background-color: #eec230;
-	background-image: var(--background-image-url-2048);
+/*	background-image: var(--background-image-url-2048);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x4096{
 	background-color: #fe3d3d;
-	background-image: var(--background-image-url-4096);
+/*	background-image: var(--background-image-url-4096);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 .x8192{
 	background-color: #ff2020;
-	background-image: var(--background-image-url-8192);
+/*	background-image: var(--background-image-url-8192);
 	background-size: 100% 100%;
-	color: rgba(0, 0, 0, 0);
+	color:rgba(0, 0, 0, 0);*/
+	color: white;
 }
 
 /* Setting animations in our slide */
